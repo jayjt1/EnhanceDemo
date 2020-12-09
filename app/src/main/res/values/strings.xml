@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EnhanceDemo</string>
+
+    <string name="fa_icon_success">&#xf00c;</string>
+    <string name="fa_icon_failure">&#xf00d;</string>
+
+    <color name="colorDivider">#ffffff</color>
+
+</resources>
